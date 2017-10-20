@@ -1,0 +1,76 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "it.syo.myppas.helloW"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "it.syo.myppas.helloW"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "it.syo.myppas.helloW"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "it.syo.myppas.helloW"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "it.syo.myppas.helloW"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "it.syo.myppas.helloW"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "it.syo.myppas.helloW"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "it.syo.myppas.helloW"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "it.syo.myppas.helloW"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "it.syo.myppas.helloW"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "it.syo.myppas.helloW"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "it.syo.myppas.helloW"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "it.syo.myppas.helloW"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "it.syo.myppas.helloW"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "it.syo.myppas.helloW"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "it.syo.myppas.helloW"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "it.syo.myppas.helloW"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "it.syo.myppas.helloW"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "it.syo.myppas.helloW"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "it.syo.myppas.helloW"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "it.syo.myppas.helloW"
+        }
+    }
+}
